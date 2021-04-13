@@ -27,7 +27,7 @@
            sync-j="4" />
   
   <!-- Xenvm projects -->
-  <project path="device/xen/xenvm" name="android_device_xenvm"  remote="github" />
+  <project path="device/xen/xenvm" name="android_device_xenvm"  remote="github" revision="a543e31955214a3a96988ee5259f218d9524fd92" />
   <project path="vendor/xen/audio" name="android_vendor_xen_audio" remote="github" />
   <project path="vendor/xen/gnss" name="android_vendor_xen_gnss" remote="github" />
   <project path="vendor/xen/vehicle" name="android_vendor_xen_vehicle" remote="github" />
